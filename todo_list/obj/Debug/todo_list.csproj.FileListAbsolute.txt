@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\todo_list\todo_list\obj\Debug\todo_list.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\todo_list\todo_list\bin\Debug\todo_list.exe.config
+C:\Users\HP\source\repos\todo_list\todo_list\bin\Debug\todo_list.exe
+C:\Users\HP\source\repos\todo_list\todo_list\bin\Debug\todo_list.pdb
+C:\Users\HP\source\repos\todo_list\todo_list\obj\Debug\todo_list.exe
+C:\Users\HP\source\repos\todo_list\todo_list\obj\Debug\todo_list.pdb
